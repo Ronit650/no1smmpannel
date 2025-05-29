@@ -1,0 +1,1 @@
+export default function Signup() { return (<div className="text-center mt-20 text-2xl">Signup Page</div>); }

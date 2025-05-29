@@ -1,0 +1,1 @@
+export default function OrderHistory() { return (<div className="text-xl font-bold">Order History Page</div>); }
